@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "nombre": "Producto 1",
+      "descripcion": "Esta es la descripción del Producto 1 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 10,
+      "precio": 19.99,
+      "imagen": "../assets/img/imgtest002.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Producto 2",
+      "descripcion": "Esta es la descripción del Producto 2 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum. ",
+      "stock": 5,
+      "precio": 9.99,
+      "imagen": "../assets/img/imgtest005.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Producto 3",
+      "descripcion": "Esta es la descripción del Producto 3 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 2,
+      "precio": 29.99,
+      "imagen": "../assets/img/imgtest006.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Producto 4",
+      "descripcion": "Esta es la descripción del Producto 4 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 0,
+      "precio": 39.99,
+      "imagen": "../assets/img/imgtest007.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Producto 5",
+      "descripcion": "Esta es la descripción del Producto 5 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 1,
+      "precio": 49.99,
+      "imagen": "../assets/img/default.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Producto 6",
+      "descripcion": "Esta es la descripción del Producto 6 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 10,
+      "precio": 59.99,
+      "imagen": "../assets/img/imgtest006.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Producto 7",
+      "descripcion": "Esta es la descripción del Producto 7 lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+      "stock": 10,
+      "precio": 59.99,
+      "imagen": "../assets/img/default.png"
+    }
+  ]
